@@ -1,6 +1,7 @@
 #include "SDL2/SDL.h"
 #include <iostream>
 
+
 class Game {
 public:
     Game();
@@ -18,6 +19,6 @@ public:
 private:
     bool isRunning;
     SDL_Window *window;
-    SDL_Renderer *rendererl;
+    SDL_Renderer *renderer;
 
 };
