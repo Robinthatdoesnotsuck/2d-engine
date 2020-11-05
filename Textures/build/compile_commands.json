@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/iram/Desktop/dev/c++/2D small games/2d engine/Textures/build",
+  "command": "/bin/g++  -I\"/home/iram/Desktop/dev/c++/2D small games/2d engine/Textures/includes\" -g -o CMakeFiles/Textures.dir/src/main.cpp.o -c \"/home/iram/Desktop/dev/c++/2D small games/2d engine/Textures/src/main.cpp\"",
+  "file": "/home/iram/Desktop/dev/c++/2D small games/2d engine/Textures/src/main.cpp"
+}
+]

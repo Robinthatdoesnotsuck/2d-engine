@@ -1,0 +1,3 @@
+/home/iram/Desktop/dev/c++/2D small games/2d engine/Game_loop/build/CMakeFiles/edit_cache.dir
+/home/iram/Desktop/dev/c++/2D small games/2d engine/Game_loop/build/CMakeFiles/rebuild_cache.dir
+/home/iram/Desktop/dev/c++/2D small games/2d engine/Game_loop/build/CMakeFiles/Game_Loop.dir

@@ -1,0 +1,1 @@
+/bin/g++ -g -rdynamic CMakeFiles/Textures.dir/src/main.cpp.o -o Textures  -lSDL2main -lSDL2 

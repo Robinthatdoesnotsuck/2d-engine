@@ -1,0 +1,5 @@
+/home/iram/Desktop/dev/c++/2D small games/2d engine/Textures/build/CMakeFiles/edit_cache.dir
+/home/iram/Desktop/dev/c++/2D small games/2d engine/Textures/build/CMakeFiles/package_source.dir
+/home/iram/Desktop/dev/c++/2D small games/2d engine/Textures/build/CMakeFiles/rebuild_cache.dir
+/home/iram/Desktop/dev/c++/2D small games/2d engine/Textures/build/CMakeFiles/package.dir
+/home/iram/Desktop/dev/c++/2D small games/2d engine/Textures/build/CMakeFiles/Textures.dir

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/iram/Desktop/dev/c++/2D small games/2d engine/Game_loop/build",
+  "command": "/bin/g++  -I\"/home/iram/Desktop/dev/c++/2D small games/2d engine/Game_loop/includes\" -g -o CMakeFiles/Game_Loop.dir/src/Game.cpp.o -c \"/home/iram/Desktop/dev/c++/2D small games/2d engine/Game_loop/src/Game.cpp\"",
+  "file": "/home/iram/Desktop/dev/c++/2D small games/2d engine/Game_loop/src/Game.cpp"
+},
+{
+  "directory": "/home/iram/Desktop/dev/c++/2D small games/2d engine/Game_loop/build",
+  "command": "/bin/g++  -I\"/home/iram/Desktop/dev/c++/2D small games/2d engine/Game_loop/includes\" -g -o CMakeFiles/Game_Loop.dir/src/main.cpp.o -c \"/home/iram/Desktop/dev/c++/2D small games/2d engine/Game_loop/src/main.cpp\"",
+  "file": "/home/iram/Desktop/dev/c++/2D small games/2d engine/Game_loop/src/main.cpp"
+}
+]
